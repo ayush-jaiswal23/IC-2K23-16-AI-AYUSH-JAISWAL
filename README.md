@@ -6,13 +6,13 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 This repository contains the lab assignments, implementations, and data analysis notebooks completed as part of the **Design and Analysis of Algorithms / Artificial Intelligence Lab** coursework. The implementations cover foundational search strategies, heuristic optimization, data analysis, machine learning classification, and knowledge representation techniques using C++ and Python.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 .
@@ -39,7 +39,7 @@ This repository contains the lab assignments, implementations, and data analysis
 
 ---
 
-## 🧪 Lab-wise Breakdown
+## Lab-wise Breakdown
 
 ### **LAB 1: State Space Search**
 * **`Task1_water_in_jug.cpp`**: C++ implementation solving the classic Water Jug Problem using state-space search techniques.
@@ -66,7 +66,7 @@ This repository contains the lab assignments, implementations, and data analysis
 
 ---
 
-## 🛠️ Technologies & Prerequisites
+## Technologies & Prerequisites
 
 * **Languages:** C++ (GCC/G++), Python 3.x
 * **Libraries & Tools:** 
@@ -77,7 +77,7 @@ This repository contains the lab assignments, implementations, and data analysis
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### **1. Clone the Repository**
 ```bash
