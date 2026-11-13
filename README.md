@@ -1,14 +1,13 @@
-# Design and Analysis of Algorithms (DAA) & AI Lab Repository
+# Design and Analysis of Algorithms (DAA) Lab Repository
 
 **Name:** Ayush Jaiswal  
-**Roll Number / ID:** IC-2K23-16  
-**Repository:** `IC-2K23-16-AI-AYUSH-JAISWAL`
+**Roll Number:** IC-2K23-16  
 
 ---
 
 ## Overview
 
-This repository contains the lab assignments, implementations, and data analysis notebooks completed as part of the **Design and Analysis of Algorithms / Artificial Intelligence Lab** coursework. The implementations cover foundational search strategies, heuristic optimization, data analysis, machine learning classification, and knowledge representation techniques using C++ and Python.
+This repository contains the lab assignments, implementations, and data analysis notebooks completed as part of the **Design and Analysis of Algorithms Lab** coursework. The implementations cover foundational search strategies, heuristic optimization, data analysis, machine learning classification, and knowledge representation techniques using C++ and Python.
 
 ---
 
